@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Considerations relating to the bill for restraining the wearing India wrought silks, &amp;c. in England.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20641</idno><idno type="EEBO-CITATION">99885964</idno>
+  <idno type="VID">186332</idno>
+  <idno type="EEBO-PROQUEST">2240890523</idno>
+  
+            <idno type="STC">Wing C5913B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.13[134]</idno>
+            <idno type="STC">ESTC R225236</idno>
+            <idno type="PROQUEST">ocm99885964</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885964e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20641)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186332)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:1[129])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Considerations relating to the bill for restraining the wearing India wrought silks, &amp;c. in England.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">East India Company --  Administration --  Early works to 1800.</term>
+               <term type="topical_term">Silk industry --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  India --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186332:1"/>
+            <pb facs="tcp:186332:1"/>
+            <head>CONSIDERATIONS <hi>relating to the</hi> BILL <hi>for Restraining the Wearing</hi> India <hi>wrought Silks,</hi> &amp;c. <hi>in</hi> ENGLAND.</head>
+            <p>IT's certain Truth agreed on by all Hands, that this Kingdom is in an extra<g ref="char:EOLhyphen"/>ordinary manner fitted (by the Bounty of Heaven) for a great Encrease in <hi>Wealth</hi> and <hi>Power,</hi> and as certain it's the Duty of every English-man, so far to Endeavour the welfare of his Country, as to hinder as much as possible he can those Methods (used by Persons who mind their own private Interest before the Publick Good) which tend to the Destruction of <hi>Both.</hi>
+            </p>
+            <p>To this end it may not be unserviceable to consider some Maxims of Sir <hi>Josiah Child (<hi>The Great Champion for the East-India Trade)</hi>
+               </hi> laid down in his <hi>Excellent Treatise</hi> concerning Trade, and if it be found they do strenuously ar<g ref="char:EOLhyphen"/>gue in the behalf of the <hi>Bill</hi> now depending, which restrains the wearing <hi>East-India</hi> wrought Silks, <hi>&amp;c.</hi> in <hi>England,</hi> then it's to be hoped, those Gentlemen that are concern'd in the <hi>East-India</hi> Trade (and who at present labour so industriously against the said Bill) will silently own themselves to be mistaken.</p>
+            <p>
+               <hi>That Wooll is eminently the Foundation of English Riches,</hi>
+               <note place="margin">
+                  <hi>Discourse of Trade,</hi> p. 127. Page 156.</note>
+               <hi>and that the ways to equa<g ref="char:EOLhyphen"/>lize or over-ballance our Neighbours in our National Profit by our Forreign Trade: Are</hi>
+            </p>
+            <p>
+               <hi>To prevent the Exportation of our</hi> Wooll, <hi>and encourage our Woollen Manufactures. To encourage those Forreign Trades most, that vend most of our Manufactures, and that Supply us with Materials further to be Manufactur'd in</hi> England.</p>
+            <p>
+               <hi>That it's our Interest by Example,</hi>
+               <note place="margin">Page 161.</note>
+               <hi>and other Means (not distastful) above all kind of Commodities, to prevent as much as may be the Importation of Forreign Manufactures.</hi>
+            </p>
+            <p>
+               <hi>That it is multitudes of People,</hi>
+               <note place="margin">Preface.</note>
+               <hi>and such Laws as cause an Encrease of People which prin<g ref="char:EOLhyphen"/>cipally enrich any Country.</hi>
+            </p>
+            <p>
+               <hi>That</hi> Lands <hi>(though excellent) without hands proportionable will not enrich any King<g ref="char:EOLhyphen"/>dom. That whatever tends to the Depopulating any Kingdom,</hi>
+               <note place="margin">Page 165. &amp; 167.</note>
+               <hi>tends to the Empoverishment thereof.</hi>
+            </p>
+            <p>
+               <hi>That it is our Duty to</hi> God <hi>and</hi> Nature <hi>to provide for, and employ the Poor.</hi>
+               <note place="margin">Page 56. &amp; 174. <hi>Preface.</hi>
+               </note>
+               <hi>That such as our Employment is for the People, so many will our People be.</hi>
+            </p>
+            <p>
+               <hi>That it's the Interest of a Kingdom, the Poors Wages should be high; for wherever Wages are high throughout the whole World, it is an infallible Evidence of the Riches of that Country; and wherever Wages for Labour runs low, it's a proof of the Poverty of that place.</hi>
+            </p>
+            <p>
+               <hi>That the Expence of</hi> Forreign Commodities, <hi>especially</hi> Forreign Manufactures, <hi>is the worst Expence a Nation can be inclinable to, and ought to be prevented as much as possible.</hi>
+            </p>
+            <p>These, and many other Heads which might be gathered out of that <hi>Ingenious Trea<g ref="char:EOLhyphen"/>tise,</hi> we humbly conceive do <hi>fully</hi> and <hi>clearly</hi> manifest the great Prejudice that this Nation sustains, by wearing <hi>East-India Silks, Bengalls, &amp;c.</hi> within this Kingdom, in that it will <hi>unavoidably</hi> destroy our Woollen Manufactures, fall the value of our Lands, cause us to abandon our Duty to <hi>God</hi> and <hi>Nature,</hi> by lessening the Poors Wages and Employment, and thereby <hi>Depopulating</hi> our Country, forcing our Peo<g ref="char:EOLhyphen"/>ple away to Forreign Parts, where they may be more employed and better paid, and by that means diminishing our <hi>Strength,</hi> empairing our <hi>Honour,</hi> and in the end leaving us only as a Prey to those Merchants, whose private Interests are Diametri<g ref="char:EOLhyphen"/>cally opposite to the Gain of this Kingdom.</p>
+            <p>It being <hi>notoriously</hi> known, that when the vast Importation of <hi>East-India</hi> Manu<g ref="char:EOLhyphen"/>factures came upon us, the <hi>Genius</hi> of the People of <hi>England</hi> (who are generally be<g ref="char:EOLhyphen"/>witched with Novelties from Forreign Parts) did universally run after those Com<g ref="char:EOLhyphen"/>modities, that not only their Bodies, but their Houses also were adorned with the Manufactured Goods of <hi>India,</hi> to so great a degree, that our own Manufactures, which used to supply all those occasions, became almost useless, and the Poor wanted Employment, and unless restrained, will have all the <hi>sad Consequence</hi> before<g ref="char:EOLhyphen"/>named: All which is humbly offered and submitted to the Consideration of the <hi>Parliament.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
